@@ -24,7 +24,7 @@
   "homepage": "https://github.com/Strider-CD/ecosystem-index#readme",
   "dependencies": {
     "console-emoji": "^0.0.2",
-    "js-yaml": "^3.8.0",
+    "js-yaml": "^3.11.0",
     "request": "^2.79.0"
   }
 }
