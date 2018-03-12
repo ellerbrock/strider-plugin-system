@@ -25,6 +25,6 @@
   "dependencies": {
     "console-emoji": "^0.0.2",
     "js-yaml": "^3.8.0",
-    "request": "^2.79.0"
+    "request": "^2.85.0"
   }
 }
